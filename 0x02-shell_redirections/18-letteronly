@@ -1,0 +1,2 @@
+#!/bin/bash
+grep '^[[:upper:]]\|^pp[[:lower:]]' / etc/ssh/sshd_config
